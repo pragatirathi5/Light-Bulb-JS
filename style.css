@@ -1,0 +1,13 @@
+.alert{
+    padding-top: 5px;
+    font-size: x-large;
+    font-style:inherit;
+    text-align: center;
+    text-decoration: dotted;
+    color: darkorange;
+}
+
+#mybulb{
+    padding-left: 510px;
+    padding-top: 40px;
+}
